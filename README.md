@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Chara and I'm a ..., from ....</h1>
+<h1 align="left">Hi 👋! My name is Chara!</h1>
 
 <h2 align="left">About Me</h2>
 <p align="left">
