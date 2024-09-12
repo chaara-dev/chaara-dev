@@ -2,16 +2,18 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-  I'm a CST Student from BC.
-  </br>
-  Might update this later if I remember more to write down.
-</p>
-<p align="left">
   - 📆 18 y/o
   </br>
   - 🍁 Canadian
   </br>
   - 🏳️‍⚧️ She/her
+</p>
+<p align="left">
+  I'm a CST Student from BC.
+  </br>
+  Hobby game dev and aspiring computer programmer.
+  </br>
+  I love to make random projects, but don't have as much time/motivation as I want to.
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=chaara-dev.chaara-dev&left_color=rebeccapurple&right_color=darkgrey"  />
 </br>
