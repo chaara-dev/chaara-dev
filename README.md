@@ -2,11 +2,16 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-  📆 18 y/o
+  I'm a CST Student from BC.
   </br>
-  🍁 Canadian
+  Might update this later if I remember more to write down.
+</p>
+<p align="left">
+  - 📆 18 y/o
   </br>
-  🏳️‍⚧️ She/her
+  - 🍁 Canadian
+  </br>
+  - 🏳️‍⚧️ She/her
 </p>
 
 ###
