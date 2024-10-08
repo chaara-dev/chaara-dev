@@ -8,6 +8,8 @@
   </br>
   - Canadian
 </p>
+
+## About me
 <p align="left">
   I'm a CST Student from BC.
   </br>
