@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I'm Chara :3</h1>
+<img align="center" src="anti-spiral.gif">
+<h1 align="center">Hi! I'm Chara.</h1>
 
 ## 🔍 Quick Info
 <p align="left">
