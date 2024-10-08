@@ -1,12 +1,12 @@
 <h1 align="center">Hello! I'm Chara :3</h1>
 
-<h2 align="left">About Me</h2>
+## 🔍 Quick Info
 <p align="left">
-  - 📆 18 y/o
+  - 18 y/o
   </br>
-  - 🍁 Canadian
+  - She/her
   </br>
-  - 🏳️‍⚧️ She/her
+  - Canadian
 </p>
 <p align="left">
   I'm a CST Student from BC.
