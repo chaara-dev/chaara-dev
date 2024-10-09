@@ -21,14 +21,19 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=chaara-dev.chaara-dev&left_color=rebeccapurple&right_color=darkgrey"  />
 </br>
 
-###
+</br>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaara-dev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaara-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div> -->
-
-###
+<h1 align="center">
+  I'm currently listening to:
+</h1>
+<div align="center">
+  <a href="https://LostBrickPlacer.pythonanywhere.com/link">
+    <img
+      src="https://lostbrickplacer.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
+      alt="Current Spotify Song"
+    />
+  </a>
+</div>
 
 <br clear="both">
 
