@@ -34,6 +34,11 @@
     />
   </a>
 </div>
+<div align="center">
+  <sup>
+    Reload the page to update song information!
+  </sup>
+</div>
 
 <br clear="both">
 
