@@ -1,17 +1,15 @@
 <img align="center" src="anti-spiral.gif">
-<h1 align="center">Hi! I'm Chara.</h1>
+<h1 align="center">Hi! I'm Chara :D</h1>
 
-## 🔍 Quick Info
+##  📖 About Me
 <p align="left">
   - 18 y/o
   </br>
   - She/her
   </br>
   - Canadian
-</p>
-
-## About me
-<p align="left">
+  
+  #
   I'm a CST Student from BC.
   </br>
   Hobby game dev and aspiring computer programmer.
@@ -45,21 +43,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
 </div>
-
-###
-
-
-###
-
-<!-- <div align="center">
-  <a href="https://twitch.tv/lostbrickplacer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discordapp.com/users/624613879414259789" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div> -->
-
-
 
 ###
