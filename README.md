@@ -16,7 +16,7 @@
   </br>
   I love to make random projects, but don't have as much time/motivation as I want to.
   </br>
-  Find me as @lostbrickplacer on Discord.
+  https://chaara.dev
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=chaara-dev.chaara-dev&left_color=rebeccapurple&right_color=darkgrey"  />
 </br>
