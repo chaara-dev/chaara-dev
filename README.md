@@ -3,7 +3,7 @@
 
 ##  📖 About Me
 <p align="left">
-  - 18 y/o
+  - 19 y/o
   </br>
   - She/her
   </br>
