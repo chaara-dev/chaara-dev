@@ -26,16 +26,16 @@
 </h1>
 <div align="center">
   <a href="https://discord.com/users/624613879414259789">
-    <img src="https://lanyard.cnrad.dev/api/624613879414259789?showDisplayName=true&hideDecoration=true&borderRadius=15px&hideSpotify=true"/>
+    <img src="https://lanyard.cnrad.dev/api/624613879414259789?showDisplayName=true&hideDecoration=true&borderRadius=15px"/>
   </a>
-  </br>
+  <!-- </br>
   <a href="https://LostBrickPlacer.pythonanywhere.com/link">
     <img
       src="https://lostbrickplacer.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
       alt="Current Spotify Song"
       style="border-radius:15px;"
     />
-  </a>
+  </a> -->
 </div>
 <div align="center">
   <sup>
