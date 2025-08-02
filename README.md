@@ -1,6 +1,5 @@
 <img align="center" src="anti-spiral.gif" style="border-radius:15px;">
-</br>
-<h1 align="center">Hi! I'm Chara :D</h1>
+<h1 align="center">Hi! I'm Chara :3</h1>
 
 <p align="left">
   - 19 y/o
