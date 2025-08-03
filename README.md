@@ -25,7 +25,7 @@
   My Activity
 </h1>
 <div align="center">
-  <a href="https://discord.com/users/624613879414259789">
+  <a href="discord:https://discord.com/users/624613879414259789">
     <img src="https://lanyard.cnrad.dev/api/624613879414259789?showDisplayName=true&hideDecoration=true&borderRadius=15px"/>
   </a>
   <!-- </br>
